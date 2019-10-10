@@ -7,7 +7,7 @@
       </transition>
       <div class="footer">
         <p v-html="website.website_footer"></p>
-        <p>©2019 上海异云软件科技有限公司 版本： {{ version }}
+        <p>©2019 上海异云软件科技有限公司 <br/> 版本： {{ version }}
         </p>
       </div>
     </div>
